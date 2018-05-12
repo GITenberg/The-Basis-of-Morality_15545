@@ -1,0 +1,37 @@
+_repo: The-Basis-of-Morality_15545
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Besant, Annie
+    aliases:
+    - Besant, Annie Wood
+    - Wood, Annie
+    birthdate: 1847
+    deathdate: 1933
+    gutenberg_agent_id: '1425'
+    url: http://www.gutenberg.org/2009/agents/1425
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Besant
+description: Must religion and morals go together? Can one be taught without the other?
+  It is a practical question for educationists, but apart from education, the question
+  of the bedrock on which morals rest, the foundation on which a moral edifice can
+  be built that will stand secure against the storms of life?that is a question of
+  perennial interest, and it must be answered by each of us, if we would have a test
+  of Right and Wrong, would know why Right is Right, why Wrong is Wrong. Mysticism
+  cannot be spoken of as a basis of morality in the sense in which Revelation, Intuition,
+  Utility and Evolution are.
+gutenberg_issued: '2005-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15545'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BP'
+- !lcsh 'Theosophy'
+title: The Basis of Morality
+url: http://www.gutenberg.org/ebooks/15545
